@@ -1,6 +1,6 @@
 {
   "version": "v2",
-  "firmware": "https://github.com/Sharan-109/stm-32-fw/releases/download/v2/firmware.bin",
+  "firmware": "https://raw.githubusercontent.com/Sharan-109/stm-32-fw/main/firmware.bin",
   "size": 20316,
   "crc32": "0x1A4ADEB3"
 }
